@@ -6,9 +6,6 @@ header{
 h1{
   color: antiquewhite;
 }
-img{
-  image-rendering: crisp-edges ;
-}
 p{
   font: size 30px;;
 }
@@ -43,14 +40,23 @@ img
   float: right;
 }
 .contact{
-  text-align: lef;
+  text-align: left;
 }
 th,td{
-  padding: 15px;
+  padding: 30px;
 }
 .sidebar{
   float: left;
   width: 780px;;
   background-color: mediumturquoise;
   border: black solid 1px;
+}
+
+.column{
+  float: left;
+  width: 415px;
+}
+.headerimg{
+  float: left;
+  width: 20px;
 }
