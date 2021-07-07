@@ -22,8 +22,35 @@ p{
   text-align: center;
 }
 table, th, td {
-  border: 1px solid black;
+  border: 1px solid white;
   border-collapse: collapse;
   margin-left: auto;
   margin-right: auto;
+}
+div.border {
+  border: 1px solid darkcyan;
+}
+pre{
+  font-family: serif;
+  text-align: center;
+}
+main {
+  height: 300px;
+}
+img
+{
+  
+  float: right;
+}
+.contact{
+  text-align: lef;
+}
+th,td{
+  padding: 15px;
+}
+.sidebar{
+  float: left;
+  width: 780px;;
+  background-color: mediumturquoise;
+  border: black solid 1px;
 }
