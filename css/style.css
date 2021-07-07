@@ -33,10 +33,11 @@ pre{
 }
 main {
   height: 300px;
+  width: auto;
 }
 img
 {
-  
+  border: solid grey 2px;
   float: right;
 }
 .contact{
@@ -47,7 +48,7 @@ th,td{
 }
 .sidebar{
   float: left;
-  width: 780px;;
+  width: 778px;;
   background-color: mediumturquoise;
   border: black solid 1px;
 }
@@ -60,3 +61,4 @@ th,td{
   float: left;
   width: 20px;
 }
+div.img 
