@@ -4,12 +4,10 @@
 ## Description
 This is a page containing basic infomation on Hippogriffs created with the aim of aiding me understand css and html elements better through floats, and columned paragraphs.
 ## Setup/Installation Requirements
-* 
-* 
-* 
-* 
-* 
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+* clone repsitory $git clone https://github.com/CherrylOsewe/project2.git
+* open index.html file with your text editor of choice
+* open in live server
+
 ## Known Bugs
 No known bugs
 ## Technologies Used
